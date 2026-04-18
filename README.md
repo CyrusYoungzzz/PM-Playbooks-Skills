@@ -269,6 +269,9 @@ PM-Playbooks-Skills/
 ├── references/                       # 方法论沉淀（命令按需加载）
 │   ├── kedaibiao-real-vs-fake.md
 │   └── lichuangqi-baopin.md
+├── evals/                            # 测试用例（改方法论后跑一遍防退化）
+│   ├── evals.json                    #   7 条命令各 1 个 prompt + expectations
+│   └── README.md
 ├── kedaibiao-raw/                    # 课代表立正原始素材
 └── lichuangqi-raw/                   # 李创奇原始素材
     ├── interviews/                   #   公开采访 / 演讲
